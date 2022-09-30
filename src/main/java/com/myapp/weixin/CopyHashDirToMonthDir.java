@@ -15,7 +15,7 @@ import java.util.concurrent.atomic.AtomicReference;
  * 视频封面图片会删除
  *
  */
-public class CopyHashDirToMontyDir {
+public class CopyHashDirToMonthDir {
 
     public static void main(String[] args) {
         String path = "D:/wx/WeChat Files/***/FileStorage/MsgAttach";
